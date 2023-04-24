@@ -1,8 +1,9 @@
-# PsnStore
+# Clone PsnStore
 
-- Esse projeto é uma recriação da Playstation Store.
+** Projeto criado durante curso de Formação Angular Developer, da plataforma de ensino DIO.
+com a iluste pessoa, professor Felipe com uma didatica impecavel agregando os conhecimentos para nos alunos.
 
-- Projeto criado durante curso de Angular Developer na plataforma de ensino DIO.
+** Foi um projeto de recriação da Playstation Store.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
